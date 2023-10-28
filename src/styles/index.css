@@ -59,6 +59,7 @@
     cursor: pointer;
     position: relative;
     background: #f3f2f2;
+    
 }
 
 .editor input[name="title"] {
